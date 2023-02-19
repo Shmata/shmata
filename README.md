@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/shahabmatapour/" alt="Shahab Matapour" target="blank">
 Hassan Matapourtavakolian (Shahab Matapour)</a></h1>
-<h3 align="center">A SharePoint developer</h3>
+<h3 align="center">A Microsoft 365 & SharePoint developer</h3>
 
 
 <a target="_blank" align="center">
