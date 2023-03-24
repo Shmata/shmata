@@ -26,22 +26,20 @@ Hassan Matapourtavakolian (Shahab Matapour)</a></h1>
 
 ## Skills
 <h2 align="left">
- <img alt="Shahab Matapour SharePoint" width ='32px' src ="https://user-images.githubusercontent.com/2398297/219961451-ae83981f-5e08-42f4-b2de-415b801a8b93.svg"> 		
+ <img alt="Shahab Matapour SharePoint" width ='32px' src ="https://user-images.githubusercontent.com/2398297/219961451-ae83981f-5e08-42f4-b2de-415b801a8b93.svg">
  <img alt="Shahab Matapour Azure" width ='32px' src ='https://user-images.githubusercontent.com/2398297/219961505-0af85da7-eba3-4d91-a85e-08048f903a3a.svg'> 
- <img alt="Shahab Matapour C#" width ='32px' src ="https://user-images.githubusercontent.com/2398297/219961565-88d3d2ab-255a-46e8-8f1f-d463b8eca7f9.svg"> >
- <img alt="Shahab Matapour TypeScript" width ='32px' src ="https://user-images.githubusercontent.com/2398297/219961659-d26aa572-25e4-4057-a20f-a3bb01292ade.svg">		
+ <img alt="Shahab Matapour C#" width ='32px' src ="https://user-images.githubusercontent.com/2398297/219961565-88d3d2ab-255a-46e8-8f1f-d463b8eca7f9.svg">
+ <img alt="Shahab Matapour TypeScript" width ='32px' src ="https://user-images.githubusercontent.com/2398297/219961659-d26aa572-25e4-4057-a20f-a3bb01292ade.svg">
 <img alt="Shahab Matapour React" width ='32px' src ="https://user-images.githubusercontent.com/2398297/219962005-46a2d87b-533c-4a8d-8628-f1e7139c8c73.svg"> 
 <img alt="Shahab Matapour SPFx" width ='32px' src ="https://user-images.githubusercontent.com/2398297/219962770-2a5a20fc-cda2-4d9a-b229-4d5afd5ddf4d.png"> 	
  <img alt="Shahab Matapour Azure Function" width ='32px' src ="https://user-images.githubusercontent.com/2398297/219962036-5a7f0c82-fafd-4b21-aa3b-6f8dcabf3e45.svg"> 
- <img alt="Shahab Matapour Azure Devops" width ='32px' src ="https://user-images.githubusercontent.com/2398297/219962173-ef74250f-a75d-4651-bb80-56f900bbb600.svg"> 	
+ <img alt="Shahab Matapour Azure Devops" width ='32px' src ="https://user-images.githubusercontent.com/2398297/219962173-ef74250f-a75d-4651-bb80-56f900bbb600.svg"> 
 <img alt="Shahab Matapour Microsoft Graph" width ='32px' src ="https://user-images.githubusercontent.com/2398297/219962539-5f986f9a-0abc-4111-a386-1e20c7ab6faf.png">
 <img alt="Shahab Matapour Power automate" width ='32px' src ="https://user-images.githubusercontent.com/2398297/219962062-ff71118d-bd33-4dee-add1-bdf4cd9060e0.svg"> 
-<img alt="Shahab Matapour Power apps" width ='32px' src ="https://user-images.githubusercontent.com/2398297/219961942-c4b579e7-4c2e-49e9-ae5a-cab03f9f6fc6.svg"> 	
- <img alt="Shahab Matapour JavaScript" width ='32px' src ="https://user-images.githubusercontent.com/2398297/219962151-f2bcceb6-27d2-4b73-b5af-892c83ee0433.svg"> 	
+<img alt="Shahab Matapour Power apps" width ='32px' src ="https://user-images.githubusercontent.com/2398297/219961942-c4b579e7-4c2e-49e9-ae5a-cab03f9f6fc6.svg">
+ <img alt="Shahab Matapour JavaScript" width ='32px' src ="https://user-images.githubusercontent.com/2398297/219962151-f2bcceb6-27d2-4b73-b5af-892c83ee0433.svg">
  <img alt="Shahab Matapour Web api" width ='32px' src ="https://user-images.githubusercontent.com/2398297/219962382-88cd2ce2-7f99-46a0-8000-3249c30d3028.svg"> 
- <img alt="Shahab Matapour Microsoft Teams" width ='32px' src ="https://user-images.githubusercontent.com/2398297/219962400-4cab62a9-dd13-4ede-8587-47564a9f033a.png"> 	
-		
-
+ <img alt="Shahab Matapour Microsoft Teams" width ='32px' src ="https://user-images.githubusercontent.com/2398297/219962400-4cab62a9-dd13-4ede-8587-47564a9f033a.png"> 
 </h2>	
 
 <br/>
