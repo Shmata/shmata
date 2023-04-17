@@ -13,7 +13,7 @@ Hassan Matapourtavakolian (Shahab Matapour)</a></h1>
 
 - 🌱 I’m currently Working on Microsoft SharePoint (online & on-prem) App development
 
-- 🤝 I’m available for freelancing.
+<!-- - 🤝 I’m available for freelancing. -->
 
 - 📝 I regularly write articles on [matapour.pro](http://www.matapour.pro) website
 
