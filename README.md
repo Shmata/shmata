@@ -11,7 +11,7 @@ Hassan Matapourtavakolian (Shahab Matapour)</a></h1>
 
 - 🔭 I’m improving my own personal project which has a few SPFx solutions and reusable controls.
 
-- 🌱 I’m currently Working on Microsoft SharePoint (online & on-prem) App development
+- 🌱 I’m currently working as a Microsoft 365 & MS Teams developer <!-- SharePoint (online & on-prem) app development -->
 
 <!-- - 🤝 I’m available for freelancing. -->
 
