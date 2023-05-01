@@ -7,9 +7,9 @@ Hassan Matapourtavakolian (Shahab Matapour)</a></h1>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://user-images.githubusercontent.com/2398297/219959750-029710cf-5ab1-43e0-b494-259bb9f8929d.gif">
-</a>
+</a> 
 
-- 🔭 I’m currently working in myown personal project (SPFx Solutions)
+- 🔭 I’m improving my own personal project which has a few SPFx solutions and reusable controls.
 
 - 🌱 I’m currently Working on Microsoft SharePoint (online & on-prem) App development
 
