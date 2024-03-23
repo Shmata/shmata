@@ -54,11 +54,11 @@ Shahab Matapour (Hassan Matapourtavakolian)</a></h1>
 		<a style="margin-left: 10px;" target="_blank" alt="comming soon" href="https://www.youtube.com/">
 				<img src="https://user-images.githubusercontent.com/2398297/219960084-ab32700c-e3c5-44ce-b106-7f73ec64f930.png" ></a>
       </div>
-
+      <h4> Talk is cheap, show me your code! </h4>
 </p>
 
 ---
-<p>Talk is cheap, show me your code!</p>
-Credit: [Shahab Matapour](http://www.matapour.pro )
+
+Credit: [Shahab Matapour](http://www.matapour.pro)
 
 
