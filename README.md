@@ -1,3 +1,4 @@
+<h4 align="center"> Talk is cheap, show me your code! </h4>
 <img align="center" top="500" height="220" width="800" alt="GIF" src="https://user-images.githubusercontent.com/2398297/219969905-ac6482e5-eda5-46f4-a4f4-508345793c5b.png" >
 
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/shahabmatapour/" alt="Shahab Matapour" target="blank">
@@ -54,7 +55,6 @@ Shahab Matapour (Hassan Matapourtavakolian)</a></h1>
 		<a style="margin-left: 10px;" target="_blank" alt="comming soon" href="https://www.youtube.com/">
 				<img src="https://user-images.githubusercontent.com/2398297/219960084-ab32700c-e3c5-44ce-b106-7f73ec64f930.png" ></a>
       </div>
-      <h4> Talk is cheap, show me your code! </h4>
 </p>
 
 ---
