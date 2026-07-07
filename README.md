@@ -22,8 +22,9 @@ Shahab Matapour (Hassan Matapourtavakolian)</a></h1>
 
 - 📫 If you require my updated resume please reach out to me via **sh.matapour @ gmail .com**
 
-- 📄 Holding a Microsoft Azure developer associate two stars <a href="https://www.credly.com/badges/56446ef9-a7d9-4fca-905e-4bdbd5ce3303/linked_in?t=rpecl6" target="blank">certificate</a>
+- 📄 Holding a Microsoft Azure developer associate two stars <a href="https://www.credly.com/badges/56446ef9-a7d9-4fca-905e-4bdbd5ce3303/linked_in?t=rpecl6" target="blank">certificate</a> (Azure Developer Associate)
 - 📄 Holding a Microsoft SharePoint developer & Microsoft 365 technologies two stars <a href="https://www.credly.com/badges/1682e267-09b8-4223-a3b1-faa25ad9d44e/linked_in?t=rs0pgs" target="blank">certificate</a> (Teams Application Developer Associate)
+- 📄 Holding a Microsoft Certified: Azure AI Engineer Associate two stars <a href="https://learn.microsoft.com/api/credentials/share/en-us/ShahabMatapour-2358/69C34F56AE5F9E14?sharingId=1200AEECB7DDE233" target="blank">certificate</a> (Azure AI Engineer Associate) 
 
 ## Skills
 <h2 align="left">
