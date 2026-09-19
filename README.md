@@ -16,7 +16,7 @@ Shahab Matapour (Hassan Matapourtavakolian)</a></h1>
 
 <!-- - 🤝 I’m available for freelancing. -->
 
-- 📝 I regularly write articles on [matapour.pro](http://www.matapour.pro) website
+- 📝 I regularly publish a Microsoft 365–related product on the [FlexiAI.ca](https://www.flexiai.ca) website. 
 
 - 💬 Enthusiastic about **SharePoint Framework WebParts, Extensions, Libraries**
 
